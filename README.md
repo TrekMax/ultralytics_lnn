@@ -18,7 +18,7 @@
 ```
 .
 ├── .vscode/                  # VSCode 调试配置
-├── .claude/                  # Claude Code 配置
+├── .agent/                   # 通用 Agent 配置
 ├── tasks/                    # 任务目录
 │   ├── pack_model.py         # 模型打包工具
 │   ├── run_inference.py      # 推理测试工具
@@ -100,7 +100,7 @@ python tasks/cat_320X320_detect/train_cat_face_320.py --quant
 
 | 文档 | 说明 |
 |------|------|
-| [.claude/skills/listenai_quant/README.md](.claude/skills/listenai_quant/README.md) | LISTENAI 工具链使用指南 |
+| [.agent/skills/listenai_quant/README.md](.agent/skills/listenai_quant/README.md) | LISTENAI 工具链使用指南 |
 | [thirdparty/README.md](thirdparty/README.md) | 第三方依赖安装说明 |
 
 ---

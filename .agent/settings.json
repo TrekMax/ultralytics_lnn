@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      {
+        "tool": "web_search"
+      },
+      {
+        "tool": "web_fetch",
+        "domains": ["carla.org"]
+      }
+    ]
+  }
+}

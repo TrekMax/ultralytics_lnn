@@ -113,10 +113,10 @@ python tasks/run_inference.py --model model.pt --source images/
 3. 添加 `test_<task>.py` 测试脚本
 4. 在 `cfg/` 下添加数据集和模型配置
 
-详见 [.claude/skills/new_task/README.md](.claude/skills/new_task/README.md)
+详见 [.agent/skills/new_task/README.md](../.agent/skills/new_task/README.md)
 
 ## 相关文档
 
-- [LISTENAI 量化工具链](../.claude/skills/listenai_quant/README.md)
-- [新建任务指南](../.claude/skills/new_task/README.md)
+- [LISTENAI 量化工具链](../.agent/skills/listenai_quant/README.md)
+- [新建任务指南](../.agent/skills/new_task/README.md)
 - [第三方依赖安装](../thirdparty/README.md)

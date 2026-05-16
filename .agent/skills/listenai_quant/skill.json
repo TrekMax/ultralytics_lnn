@@ -25,10 +25,10 @@
     "pack": "python tasks/pack_model.py --model model.onnx --platform venusA"
   },
   "docs": {
-    "README": ".claude/skills/listenai_quant/README.md",
-    "examples": ".claude/skills/listenai_quant/examples.md",
-    "npu_limits": ".claude/skills/listenai_quant/npu_limits.md",
-    "linger_install": ".claude/skills/listenai_quant/linger_install.md",
+    "README": ".agent/skills/listenai_quant/README.md",
+    "examples": ".agent/skills/listenai_quant/examples.md",
+    "npu_limits": ".agent/skills/listenai_quant/npu_limits.md",
+    "linger_install": ".agent/skills/listenai_quant/linger_install.md",
     "thirdparty": "thirdparty/README.md"
   },
   "code_examples": {

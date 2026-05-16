@@ -21,7 +21,7 @@
     "run_training": "python tasks/<task_name>/train_<task>.py"
   },
   "docs": {
-    "README": ".claude/skills/new_task/README.md",
+    "README": ".agent/skills/new_task/README.md",
     "template": "tasks/cat_320X320_detect/"
   },
   "code_examples": {
